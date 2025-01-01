@@ -37,7 +37,7 @@ PingMe is a minimalist chat application designed for real-time communication, bu
 ![Login Screen](path-to-login-screenshot)  
 ![Chat Screen](path-to-chat-screenshot)
 
-*(Add your screenshots here to showcase the app)*
+
 
 ---
 
@@ -50,7 +50,7 @@ PingMe is a minimalist chat application designed for real-time communication, bu
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/PingMe.git
+   git clone https://github.com/Harshit-3055/PingMe.git
    cd PingMe
    ```
 2. Open the project in Xcode:
@@ -90,10 +90,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## 📧 Contact
 
-For any questions or feedback, reach out to me at [your email address].
+For any questions or feedback, reach out to me at harshittag@icloud.com.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
